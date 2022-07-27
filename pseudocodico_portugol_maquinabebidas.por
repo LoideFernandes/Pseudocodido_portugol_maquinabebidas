@@ -4,7 +4,7 @@
  * 01 - Pseudocodigo em Portugol
  * Loide Fernandes
  * loidefernandes11@gmail.com
- * RDI Intern Test - ABS Sistema Automatizado de Servir Bebidas
+ * Sistema Automatizado de Servir Bebidas
  */
  
 programa
